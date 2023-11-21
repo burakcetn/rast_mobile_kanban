@@ -56,7 +56,7 @@ Splash Screen => <img src="https://github.com/burakcetn/rast_mobile_kanban/asset
 <img src="https://github.com/burakcetn/rast_mobile_kanban/assets/45536352/66250acb-69a4-4b6b-95e9-524d022007a6" width=25% height=25%>  
 
 ## Task Card'larına tıklandığında detay safasına yönlendirirken uzun basmada Drag&Drop özelliği aktif olur ve taşımak istediğiniz Listenin Title'ına bırakıldığında taşınmak istenen Task aktarılır.
-Detay sayfasına eklediğim delete butonu ile istenen task direkt database'den silinir.
+Detay sayfasına eklediğim delete butonu ile istenen task direkt database'den silinir. Detay sayfası , onDrag ve onDrop aşamaları sırasıyla aşağıda gösterilmiştir.
 
 Detay Sayfası => <img src="https://github.com/burakcetn/rast_mobile_kanban/assets/45536352/e935537c-04e0-4bdc-80cc-97abc36c7d92" width=25% height=25%>  
 onDrag => <img src="https://github.com/burakcetn/rast_mobile_kanban/assets/45536352/541f9d8b-cc10-419b-b353-c38ca633d1a0" width=25% height=25%>  
