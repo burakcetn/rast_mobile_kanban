@@ -44,8 +44,8 @@ Uygulamada kullanılan paket ve teknolojiler :
 
 Splash Screen => <img src="https://github.com/burakcetn/rast_mobile_kanban/assets/45536352/595ba352-982a-449a-9eaa-8217f6a27109" width=25% height=25%>
 
-## Uygulama 5 saniye sonra otomatik Login sayfasına yönlendirmekte ve Login servisleri olarak reqres.in kullanıldı. 
-## API servisinden dönen error mesajları Custom tanımladığımız Snackbar ile görselleştirildi. Tüm Error kodları için çalışmaktadır.
+ Uygulama 5 saniye sonra otomatik Login sayfasına yönlendirmekte ve Login servisleri olarak reqres.in kullanıldı. 
+ API servisinden dönen error mesajları Custom tanımladığımız Snackbar ile görselleştirildi. Tüm Error kodları için çalışmaktadır.
 
 ## Doğru giriş bilgileri   email = eve.holt@reqres.in   Şifre kısmını boş bırakmazsanız yeter. Reqres servisleri sadece email kontrolü üzerinden auth yapmakta.
 
